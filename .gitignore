@@ -1,6 +1,9 @@
 vertx-starter/build
 vertx-starter/.gradle
 vertx-starter/.idea
+vertx-web/build
+vertx-web/.gradle
+vertx-web/.idea
 .idea
 
 
